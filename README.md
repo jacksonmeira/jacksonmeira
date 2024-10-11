@@ -1,7 +1,7 @@
 👋 Olá, me chamo Jackson Meira!
 
 Sou estudante do curso Análise e Desenvolvimento de Sistemas e
-meu maior objeto é se tornar um desenvolvedor Full-Stack.
+meu maior objetivo é se tornar um desenvolvedor Full-Stack.
 
 
 
